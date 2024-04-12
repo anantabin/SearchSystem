@@ -1,0 +1,3 @@
+this is sample text for testing.
+the longest word is longestwordinthistext
+And this Is Capitalize word
